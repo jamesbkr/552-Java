@@ -1,0 +1,158 @@
+Thread 1: Wilma is starting
+Thread 1: Wilma is thinking
+Thread 1: Wilma tries to pick up Fork 2
+Thread 1: Wilma picked up Fork 2
+Thread 2: Betty is starting
+Thread 2: Betty is thinking
+Thread 2: Betty tries to pick up Fork 4
+Thread 2: Betty picked up Fork 4
+Thread 1: Wilma tries to pick up Fork 3
+Thread 1: Wilma picked up Fork 3
+Thread 1: Wilma starts eating
+Thread 2: Betty tries to pick up Fork 1
+Thread 2: Betty picked up Fork 1
+Thread 2: Betty starts eating
+Thread 2: Betty finishes eating
+Thread 2: Betty is thinking
+Thread 2: Betty tries to pick up Fork 4
+Thread 2: Betty picked up Fork 4
+Thread 3: Barney is starting
+Thread 3: Barney is thinking
+Thread 3: Barney tries to pick up Fork 3
+Thread 3: Barney picked up Fork 3
+Thread 2: Betty tries to pick up Fork 1
+Thread 1: Wilma finishes eating
+Thread 1: Wilma is thinking
+Thread 3: Barney tries to pick up Fork 4
+Thread 3: Barney picked up Fork 4
+Thread 3: Barney starts eating
+Thread 3: Barney finishes eating
+Thread 3: Barney is thinking
+Thread 2: Betty picked up Fork 1
+Thread 2: Betty starts eating
+Thread 1: Wilma tries to pick up Fork 2
+Thread 1: Wilma picked up Fork 2
+Thread 3: Barney tries to pick up Fork 3
+Thread 2: Betty finishes eating
+Thread 2: Betty is thinking
+Thread 3: Barney picked up Fork 3
+Thread 4: Fred is starting
+Thread 4: Fred is thinking
+Thread 3: Barney tries to pick up Fork 4
+Thread 2: Betty tries to pick up Fork 4
+Thread 2: Betty picked up Fork 4
+Thread 1: Wilma tries to pick up Fork 3
+Thread 1: Wilma picked up Fork 3
+Thread 1: Wilma starts eating
+Thread 4: Fred tries to pick up Fork 1
+Thread 2: Betty tries to pick up Fork 1
+Thread 1: Wilma finishes eating
+Thread 1: Wilma is thinking
+Thread 3: Barney picked up Fork 4
+Thread 4: Fred picked up Fork 1
+Thread 3: Barney starts eating
+Thread 1: Wilma tries to pick up Fork 2
+Thread 4: Fred tries to pick up Fork 2
+Thread 3: Barney finishes eating
+Thread 3: Barney is thinking
+Thread 2: Betty picked up Fork 1
+Thread 1: Wilma picked up Fork 2
+Thread 2: Betty starts eating
+Thread 3: Barney tries to pick up Fork 3
+Thread 2: Betty finishes eating
+Thread 4: Fred picked up Fork 2
+Thread 4: Fred starts eating
+Thread 3: Barney picked up Fork 3
+Thread 2: Betty is thinking
+Thread 2: Betty tries to pick up Fork 4
+Thread 1: Wilma tries to pick up Fork 3
+Thread 3: Barney tries to pick up Fork 4
+Thread 4: Fred finishes eating
+Thread 2: Betty picked up Fork 4
+Thread 4: Fred is thinking
+Thread 1: Wilma picked up Fork 3
+Thread 1: Wilma starts eating
+Thread 2: Betty tries to pick up Fork 1
+Thread 1: Wilma finishes eating
+Thread 1: Wilma is thinking
+Thread 3: Barney picked up Fork 4
+Thread 3: Barney starts eating
+Thread 4: Fred tries to pick up Fork 1
+Thread 4: Fred picked up Fork 1
+Thread 3: Barney finishes eating
+Thread 2: Betty picked up Fork 1
+Thread 2: Betty starts eating
+Thread 3: Barney is thinking
+Thread 4: Fred tries to pick up Fork 2
+Thread 1: Wilma tries to pick up Fork 2
+Thread 1: Wilma picked up Fork 2
+Thread 2: Betty finishes eating
+Thread 4: Fred picked up Fork 2
+Thread 2: Betty is thinking
+Thread 4: Fred starts eating
+Thread 3: Barney tries to pick up Fork 3
+Thread 3: Barney picked up Fork 3
+Thread 2: Betty tries to pick up Fork 4
+Thread 3: Barney tries to pick up Fork 4
+Thread 4: Fred finishes eating
+Thread 4: Fred is thinking
+Thread 2: Betty picked up Fork 4
+Thread 1: Wilma tries to pick up Fork 3
+Thread 1: Wilma picked up Fork 3
+Thread 1: Wilma starts eating
+Thread 1: Wilma finishes eating
+Thread 1: Wilma is thinking
+Thread 3: Barney picked up Fork 4
+Thread 3: Barney starts eating
+Thread 3: Barney finishes eating
+Thread 3: Barney is thinking
+Thread 4: Fred tries to pick up Fork 1
+Thread 4: Fred picked up Fork 1
+Thread 2: Betty tries to pick up Fork 1
+Thread 2: Betty picked up Fork 1
+Thread 2: Betty starts eating
+Thread 1: Wilma tries to pick up Fork 2
+Thread 1: Wilma picked up Fork 2
+Thread 3: Barney tries to pick up Fork 3
+Thread 2: Betty finishes eating
+Thread 2: Betty is thinking
+Thread 3: Barney picked up Fork 3
+Thread 4: Fred tries to pick up Fork 2
+Thread 4: Fred picked up Fork 2
+Thread 4: Fred starts eating
+Thread 4: Fred finishes eating
+Thread 4: Fred is thinking
+Thread 2: Betty tries to pick up Fork 4
+Thread 2: Betty picked up Fork 4
+Thread 1: Wilma tries to pick up Fork 3
+Thread 1: Wilma picked up Fork 3
+Thread 1: Wilma starts eating
+Thread 2: Betty tries to pick up Fork 1
+Thread 3: Barney tries to pick up Fork 4
+Thread 1: Wilma finishes eating
+Thread 1: Wilma is thinking
+Thread 3: Barney picked up Fork 4
+Thread 3: Barney starts eating
+Thread 4: Fred tries to pick up Fork 1
+Thread 4: Fred picked up Fork 1
+Thread 3: Barney finishes eating
+Thread 3: Barney is thinking
+Thread 2: Betty picked up Fork 1
+Thread 2: Betty starts eating
+Thread 2: Betty finishes eating
+Thread 2: Betty is thinking
+Thread 2: Betty tries to pick up Fork 4
+Thread 2: Betty picked up Fork 4
+Thread 1: Wilma tries to pick up Fork 2
+Thread 1: Wilma picked up Fork 2
+Thread 1: Wilma tries to pick up Fork 3
+Thread 3: Barney tries to pick up Fork 3
+Thread 3: Barney picked up Fork 3
+Thread 4: Fred tries to pick up Fork 2
+Thread 2: Betty tries to pick up Fork 1
+Thread 3: Barney tries to pick up Fork 4
+
+
+*****************************
+I added these comments.  The 4 threads all locked up and this was the output by the program.  I am not sure if there was supposed to be something else but this is what was printed.
+****************************
